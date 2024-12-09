@@ -4,8 +4,8 @@ This script automates keypresses and **mouse clicks at a userdefined place** at 
 
 ## Features
 
-- Automates the urgent of  keys (`key1` and `key2`) with random periods.
-- Simulates mouse clicks at a vicinity selected by way of the user.
+- Automates the input of  keys (`key1` and `key2`) with random periods.
+- Simulates mouse clicks at a position selected by way of the user.
 - The script may be paused and resumed with the "`~`" key.
 - Customizable to in shape distinctive keypresses or use cases.
 
